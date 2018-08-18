@@ -11,3 +11,18 @@
   box-shadow: 0 45px 100px rgba(0,0,0, 0.5);
   z-index: 10;
 }
+
+.lightbox-image-popup {
+  margin: 40px auto 100;
+  box-shadow: 0 35px 90px rgba(0,0,0,0.4);
+  border-radius: 10px;
+  transition: all .5s ease-in-out;
+  position: relative;
+  image:
+  z-index: 1;
+}
+
+.lightbox-image-popup:hover {
+  box-shadow: 0 45px 100px rgba(0,0,0, 0.5);
+  z-index: 10;
+}
